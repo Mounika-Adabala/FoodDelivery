@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Food Ordering Web App (MERN Stack)
 
 ## Table of Contents
@@ -141,3 +142,6 @@ Feel free to customize this template according to your specific project details 
 
 
 
+=======
+# FoodDelivery
+>>>>>>> e796418caf7a068eaa5fb8793a7f5e326ce6afb1
